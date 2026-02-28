@@ -24,7 +24,6 @@ The system covers:
     .
     ├── BestModel/
     │   └── nlp_cw.ipynb       # Main notebook (all experiments and final models)
-    ├── Report.pdf          # Final coursework report
     ├── dev.txt             # Task 1 development predictions
     ├── test.txt            # Task 1 test predictions
     └── README.md           # Project documentation
@@ -164,7 +163,7 @@ mini-batches).
 
 While small numerical variations may occur across runs, the provided
 `dev.txt` and `test.txt` files correspond exactly to the results
-reported in `Report.pdf`.
+reported in `Report.pdf`(scientia).
 
 To reproduce identical predictions, avoid re-training and instead use
 the final generated outputs included in this repository.
